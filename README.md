@@ -23,10 +23,10 @@ and in each folder, there are following files.
 | `Traditional-k-Selection.ipynb` | Collect output data and draw boxplots |
 | `FSSFile.txt` | Store the part 1 output matrix of our proposed algorithm |
 | `Trad-Solution.txt` | Store the solution of Graves and Willems' model |
-| `New-General-Simulation` | Store the simulation result under general distributed demand assumption of our GDRM |
-| `New-Poisson-Simulation` | Store the simulation result under Poisson distributed demand assumption of our GDRM |
-| `Trad-General-Simulation` | Store the simulation result under general distributed demand assumption of Graves and Willems' model |
-| `Trad-Poisson-Simulation` | Store the simulation result under Poisson distributed demand assumption of Graves and Willems' model |
+| `New-General-Simulation.txt` | Store the simulation result under general distributed demand assumption of our GDRM |
+| `New-Poisson-Simulation.txt` | Store the simulation result under Poisson distributed demand assumption of our GDRM |
+| `Trad-General-Simulation.txt` | Store the simulation result under general distributed demand assumption of Graves and Willems' model |
+| `Trad-Poisson-Simulation.txt` | Store the simulation result under Poisson distributed demand assumption of Graves and Willems' model |
 
 In the above files, we conduct both **model optimization** and **simulation** for both types of inventory placement models.
 
