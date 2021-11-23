@@ -28,6 +28,6 @@ and in each folder, there are following files.
 | `Trad-General-Simulation.txt` | Store the simulation result under general distributed demand assumption of Graves and Willems' model |
 | `Trad-Poisson-Simulation.txt` | Store the simulation result under Poisson distributed demand assumption of Graves and Willems' model |
 
-In the above files, we conduct both **model optimization** and **simulation** for both types of inventory placement models.
+In the above files, we conduct both **model optimization** and **simulation** for both types of inventory placement models. For simplicity, all models above are solved by enumeration in the part 1 of our proposed algorithm.
 
 Please refer to the thesis for detailed information.
